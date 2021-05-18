@@ -25,3 +25,7 @@ public class DecToBin {
 
 
 }
+class main{
+
+
+}
